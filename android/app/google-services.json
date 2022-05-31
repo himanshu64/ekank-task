@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855488605666",
+    "project_id": "ekank-project",
+    "storage_bucket": "ekank-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855488605666:android:70f0e079f5f9deaf569dbb",
+        "android_client_info": {
+          "package_name": "com.example.ekank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855488605666-fku843v23s515aioe6a165ug8e13vsgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekank",
+            "certificate_hash": "7c4efe5815f2b339dbfe6eec46f121385e31a114"
+          }
+        },
+        {
+          "client_id": "855488605666-aoojgu06un632emdr7nl4jpj7ti1m19l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6dCFXmiSyh2zWR0I0Z-lq4rC3FiVXtZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855488605666-aoojgu06un632emdr7nl4jpj7ti1m19l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
